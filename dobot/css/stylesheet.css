@@ -1,0 +1,29 @@
+body {
+ 	background-color: #1a2325;
+ 	border-top-width:3px;
+ 	border-top-color: #f8695a ;
+ 	border-top-style: solid;
+ 	border-top-position: absolute;
+ 	color:white;}
+
+h2 {font-size: 36px;
+	font-family: "Quatro Slab";
+	font-weight: regular;}
+
+p  {font-family: "LFT Etica";
+	font-weight: regular;
+	font-size: 16px;}
+
+h3 {font-family: "LFT Etica";
+	font-weight: book;
+	font-size: 16px;}
+
+img {
+	float: right;
+	width:645px ;
+  	position:relative;
+  	bottom: 38px;
+  	position-bottom:58px;
+  	padding:5px;
+  	solid: #ffffff;}
+
