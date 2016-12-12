@@ -40,7 +40,6 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;}
 
-
 @font-face {
   font-family: 'Quatro Slab';
   src: url('/fonts/quatroslab_regular-webfont.eot');
@@ -74,12 +73,10 @@ table {
   font-weight: normal;
   font-style: normal;}
 
-
 body {
 	border-top:4px solid #f8695a;
     background-color:#1a2325;
     margin:0px;}
-
 
 header{
 	margin-right: auto;
@@ -214,8 +211,7 @@ section:not(:last-child){
 		max-width:600px;
 		margin: auto;
     	width: 70%;
-    	margin-left:20px;}
-	}
+    	margin-left:20px;}}
 
 @media (max-width: 800px){
 
@@ -223,6 +219,5 @@ section:not(:last-child){
 		display: none;
 		width: 100%;
         height: 100%;
-        padding-right: 20px;
-	}
+        padding-right: 20px;}
 
